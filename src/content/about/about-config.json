@@ -1,0 +1,87 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "New York University",
+            "degree": "Master of Science in Computer Engineering",
+            "duration": "Sept. 2024 - May 2026",
+            "content": [
+                "GPA: 3.88/4",
+                "Courses: Machine Learning, Big Data, Deep Learning"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Vishwakarma Institute of Technology",
+            "degree": "Bachelors in Computer Engineering",
+            "duration": "Aug. 2019 - May 2023",
+            "content": [
+                "GPA: 8.86/10",
+                "Courses: Data Structures and Algorithms, Software Engineering, Artificial Intelligence"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "4iBiz",
+            "position": "Software Developer",
+            "duration": "July 2023 - June 2024",
+            "description": [
+                "Directed the development of a fitness management platform catering to 10,000+ users, utilizing Angular, TypeScript, and NgRx to deliver features like attendance tracking and workout planning, enhancing user engagement by 40%.",
+                "Architected and deployed the frontend for a corporate wellness platform adopted by 20+ companies, leveraging Angular, Bootstrap, and modular MVC frameworks for activity tracking and reward systems, improving page load speed by 50%.",
+                "Collaborated with 10+ engineers to optimize RESTful API integrations across platforms, streamlining data workflows to reduce response times by 35% and ensuring 99.9% application uptime."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "4iBiz",
+            "position": "Software Developer - Intern",
+            "duration": "July 2022 - June 2023",
+            "description": [
+                "Managed a team of 5 developers to deliver an office management solution, employing Angular and PrimeNG to build real-time analytics dashboards and resource management, boosting client satisfaction by 45% for 25+ clients.​",
+                "Developed adaptive frontend modules for an education management system supporting 30+ institutions, applying Angular and Material UI to design reusable components, leading to a 60% improvement in mobile usability.",
+                "Standardized frontend architecture using components and lazy loading, reducing initial load time by 40%, while streamlining API integration workflows with Postman for testing and debugging across platforms."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Languages & Databases",
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "Python",
+                "C++",
+                "Java",
+                "SQL",
+                "MongoDB"
+            ]
+        },
+        {
+            "title": "Frameworks",
+            "tools": ["Angular", "React.js", "Node.js", "Express.js", "PyTorch", "PySpark", "TensorFlow", "Material UI", "Bootstrap", "AWS"]
+        },
+        {
+            "title": "Libraries",
+            "tools": ["Numpy", "Pandas", "Matplotlib", "Scikit-learn", "CNN", "Keras", "FAISS", "Regression.js", "LangChain"]
+        },
+
+        {
+            "title": "Developer Tools",
+            "tools": ["Git", "Docker", "VS Code", "Agile", "MVC", "Google Colab", "Android Studio", "Jira", "Trello"]
+        }
+    ],
+    "blog": [
+        {
+            "id": "blog-1",
+            "title": "A beginner's guide to github",
+            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
+        },
+        {
+            "id": "blog-2",
+            "title": "User Experience Design – A little more than just design",
+            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+        }
+    ]
+}
