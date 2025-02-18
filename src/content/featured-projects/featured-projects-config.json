@@ -42,6 +42,7 @@
         "tags": [" React.js", "TypeScript", "NodeJS", "Express.js", "Machine Learning"],
         "description": "Designed a full-stack financial analytics dashboard with the MERN stack, Redux Toolkit, and Vite, integrating 6+ interactive charts and real-time KPI tracking, reducing latency for financial data visualization by 40%. Implemented a machine learning-based revenue forecasting module using Regression.js, achieving 85% accuracy from 1,000+ historical financial records, enabling data-driven financial planning",
         "image": "/portfolio/assets/featured-projects/fsfa.webp",
-        "jpg": "/portfolio/assets/featured-projects/fsfa.png"
+        "jpg": "/portfolio/assets/featured-projects/fsfa.png",
+        "github": "https://github.com/theomthakur/QuantDash",
     }
 ]
