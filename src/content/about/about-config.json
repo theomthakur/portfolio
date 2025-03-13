@@ -6,8 +6,8 @@
             "degree": "Master of Science in Computer Engineering",
             "duration": "Sept. 2024 - May 2026",
             "content": [
-                "GPA: 3.88/4",
-                "Courses: Machine Learning, Big Data, Deep Learning"
+                "GPA: 3.89/4",
+                "Courses: Machine Learning, Big Data, Deep Learning, MLOps"
             ]
         },
         {
@@ -16,8 +16,8 @@
             "degree": "Bachelors in Computer Engineering",
             "duration": "Aug. 2019 - May 2023",
             "content": [
-                "GPA: 8.86/10",
-                "Courses: Data Structures and Algorithms, Software Engineering, Artificial Intelligence"
+                "GPA: 3.7/4",
+                "Courses: Data Structures, Artificial Intelligence, Data Science, Web Technologies"
             ]
         }
     ],
@@ -28,9 +28,9 @@
             "position": "Software Developer",
             "duration": "July 2023 - June 2024",
             "description": [
-                "Directed the development of a fitness management platform catering to 10,000+ users, utilizing Angular, TypeScript, and NgRx to deliver features like attendance tracking and workout planning, enhancing user engagement by 40%.",
-                "Architected and deployed the frontend for a corporate wellness platform adopted by 20+ companies, leveraging Angular, Bootstrap, and modular MVC frameworks for activity tracking and reward systems, improving page load speed by 50%.",
-                "Collaborated with 10+ engineers to optimize RESTful API integrations across platforms, streamlining data workflows to reduce response times by 35% and ensuring 99.9% application uptime."
+                "Increased user engagement by 40% by directing the development of a fitness management platform for 10,000+ users, utilizing Angular, TypeScript, and NgRx to deliver features like attendance tracking and workout planning.",
+                "Boosted client satisfaction by 45% for 25+ clients by managing a team of 5 developers to deliver an office management solution, employing Angular and PrimeNG to build real-time analytics dashboards and resource management.",
+                "Reduced response times by 35% and ensured 99.9% application uptime by collaborating with 10+ engineers to optimize RESTful API integrations across platforms, streamlining data workflows."
             ]
         },
         {
@@ -39,9 +39,9 @@
             "position": "Software Developer - Intern",
             "duration": "July 2022 - June 2023",
             "description": [
-                "Managed a team of 5 developers to deliver an office management solution, employing Angular and PrimeNG to build real-time analytics dashboards and resource management, boosting client satisfaction by 45% for 25+ clients.​",
-                "Developed adaptive frontend modules for an education management system supporting 30+ institutions, applying Angular and Material UI to design reusable components, leading to a 60% improvement in mobile usability.",
-                "Standardized frontend architecture using components and lazy loading, reducing initial load time by 40%, while streamlining API integration workflows with Postman for testing and debugging across platforms."
+                "Improved mobile usability by 60% by developing adaptive frontend modules for an education management system supporting 30+ institutions, applying Angular and Material UI to design reusable components. ",
+                "Accelerated page load speed by 50% by architecting and deploying the frontend for a corporate wellness platform adopted by 20+ companies, leveraging Angular, Bootstrap, and modular MVC frameworks for activity tracking and reward systems.",
+                "Streamlined frontend performance, slashing initial load time by 40% by standardizing architecture with reusable components and lazy loading while refining API integration workflows using Postman for testing across platforms."
             ]
         }
     ],
@@ -49,27 +49,29 @@
         {
             "title": "Languages & Databases",
             "tools": [
+                "C++",
                 "TypeScript",
                 "JavaScript",
                 "Python",
-                "C++",
                 "Java",
                 "SQL",
-                "MongoDB"
+                "MongoDB",
+                "HTML",
+                "CSS"
             ]
         },
         {
             "title": "Frameworks",
-            "tools": ["Angular", "React.js", "Node.js", "Express.js", "PyTorch", "PySpark", "TensorFlow", "Material UI", "Bootstrap", "AWS"]
+            "tools": ["Angular", "React.js", "Node.js", "Express.js", "PyTorch", "PySpark", "TensorFlow", "Material UI", "Bootstrap", "Yolo", "Tableau"]
         },
         {
             "title": "Libraries",
-            "tools": ["Numpy", "Pandas", "Matplotlib", "Scikit-learn", "CNN", "Keras", "FAISS", "Regression.js", "LangChain"]
+            "tools": ["Numpy", "Pandas", "Matplotlib", "Scikit-learn", "OpenCV", "CNN", "Keras", "Hugging Face", "Regression.js", "Recharts", "NLTK", "Plotly"]
         },
 
         {
             "title": "Developer Tools",
-            "tools": ["Git", "Docker", "VS Code", "Agile", "MVC", "Google Colab", "Android Studio", "Jira", "Trello"]
+            "tools": ["Git", "Docker", "AWS", "Postman", "VS Code", "Google Colab", "Android Studio", "Jira", "Trello"]
         }
     ],
     "blog": [
